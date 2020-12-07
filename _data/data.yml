@@ -36,36 +36,45 @@ sidebar:
       #   level: Professional
 
     interests:
-      - item: Climbing
+      # - item: Climbing
         link:
 
-      - item: Snowboarding
+      # - item: Snowboarding
         link:
 
-      - item: Cooking
+      # - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Front-End Developer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       ✪ Complete setup of WordPress membership site
+       ✪ Custom WordPress Website Design
+       ✪ Payment gateway Integration (stripe)
+       ✪ Integrate WooCommerce store
+       ✪ Product Variation (Size, Color, Weight)
+       ✪ Order Tracking
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Full-Stack Web Developer
+      university: Le Wagon Montréal (Batch #482)
+      time: 2020 - 2020
+      details:
+
+          Le Wagon is a product-driven bootcamp. During the course, we learned how to build robust and beautiful web applications by ourselves, from the back-end all the way to the front-end. Le Wagon teaches you how to think and solve problems like a developer.
+
+      9-week intensive coding bootcamp learning:
+      Back-end (Ruby, Ruby on Rails, API, parsing and scraping with JSON, CSV, XML, web scrapping with Nokogiri)
+      Front-end (HTML, CSS, Bootstrap, JavaScript ES6, UI/UX)
+      Databases (SQL, PostgreSQL)
+      Deployment with Heroku
+      Version control and collaboration with git and GitHub
+      TDD (Test Driven Development)
+      Prototyping on Figma
+      Designed, implemented and shipped to production a clone of AirBnB (1 week sprint)
+
+    Final design project is a two-week sprint in which we design, implement and ship to production, with our team, a web application.
+
+My GitHub profile: https://github.com/sarahdakkak1
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
